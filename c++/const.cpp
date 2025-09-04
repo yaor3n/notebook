@@ -7,4 +7,6 @@ int main() {
     double circumference = 2 * PI * radius;
 
     std::cout << circumference << " cm";
+
+    return 0;
 }

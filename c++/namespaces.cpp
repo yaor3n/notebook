@@ -31,6 +31,7 @@ int main() {
     
     std::cout << name;
 
+    return 0;
     
 
    /*
